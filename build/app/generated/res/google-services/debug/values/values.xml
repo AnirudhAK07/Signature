@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">675920792438-0ivqptftamssqrmagpgf1umlrq39alqq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">675920792438</string>
+    <string name="google_api_key" translatable="false">AIzaSyA2GYymPPbzYeq8n-Ojhrt9HaLNDtbKg7Q</string>
+    <string name="google_app_id" translatable="false">1:675920792438:android:3c31b1684bfa77b846c857</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA2GYymPPbzYeq8n-Ojhrt9HaLNDtbKg7Q</string>
+    <string name="google_storage_bucket" translatable="false">greensnap-a1521.appspot.com</string>
+    <string name="project_id" translatable="false">greensnap-a1521</string>
+</resources>
